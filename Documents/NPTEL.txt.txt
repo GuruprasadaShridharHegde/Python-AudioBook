@@ -1,0 +1,6 @@
+The National Programme on Technology Enhanced Learning (NPTEL) was initiated by 
+seven Indian Institutes of Technology (Bombay, Delhi, Kanpur, Kharagpur, Madras, Guwahati and Roorkee)
+along with the Indian Institute of Science, Bangalore in 2003. Five core disciplines were identified, 
+namely, civil engineering, computer science and engineering, electrical engineering, electronics and 
+communication engineering and mechanical engineering and 235 courses in web/video format were developed 
+in this phase.
