@@ -34,4 +34,45 @@ So, we came up with a solution by using Python programming knowledge. Our progra
 4.	Voice configuration: Define genders, assign audio format.
 5.	Getting data from the user: File location, page number, voice and saving file in MP3 format.
 
+RESULT
+
+Design and simulation of Audiobook using PyCharm is successfully done.
+
+![image](https://user-images.githubusercontent.com/85961223/153743436-c3777085-aa99-4dc3-9c77-62d8174aebc8.png)
+
+POSSIBLE TEST CASES:
+
+	GUI based user input
+
+POSSIBLE TEST CASES:
+
+	GUI based user input
+    
+![image](https://user-images.githubusercontent.com/85961223/153743488-edb94ec0-abcf-4df5-a850-c235da3ced55.png)
+
+	Multiple document support
+
+![image](https://user-images.githubusercontent.com/85961223/153743514-51cb461a-cf74-4838-8595-2a09cba40ac9.png)
+
+	Direct Access 
+
+![image](https://user-images.githubusercontent.com/85961223/153743538-6806df57-10df-4f97-85fb-bcdbe839166c.png)
+
+### REFRENCE:
+[1] Deep learning With Python 
+[2] https://youtu.be/Flm2YHEFd5A
+[3] www.audiobooks.com
+[4] https://youtu.be/Flm2YHEFd5A
+
+### CONCLUSION
+•	we can see the usage of Audiobooks incrementing year by year globally because it can be used mainly in educational institutions and libraries.
+•	We are planned to build and launch an android application to create Audiobook so that user can create their own Audiobooks independently.
+
+    
+
+    
+
+    
+
+
 
